@@ -158,9 +158,9 @@
 	<dependency>
 		<groupId>net.sourceforge</groupId>
 		<artifactId>jsqlparser</artifactId>
-		<version>0.8.0</version>
+		<version>0.9</version>
 		<scope>system</scope>
-		<systemPath>D:/GitHub/shardbatis/shardbatis/libs/jsqlparser-0.8.0.jar</systemPath>
+		<systemPath>D:/GitHub/shardbatis/shardbatis/libs/jsqlparser-0.9.jar</systemPath>
 	</dependency>
 	
 	
